@@ -2,7 +2,7 @@
 <p align="center"> 🎓 Engineering Undergraduate <br/>
 📊 Analytics | 🧠 process mining | 📊 data <br/>
   📍 Pune, India <br/>
-📧 <a href="mailto:kaushikiwankhade@gmail.com">kaushikiwankhade@gmail.com</a> |
+<a href="mailto:kaushikiwankhade@gmail.com">E-Mail</a> |
   <a href="https://www.linkedin.com/in/kaushiki-wankhade/">LinkedIn</a> |
   <a href="https://leetcode.com/u/Kaushiki_235/">LeetCode</a>
 </p>
