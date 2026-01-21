@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kaushiki Wankhade </h1>  
+<h1 align="center">Kaushiki Wankhade </h1>  
 <p align="center"> 🎓 Engineering Undergraduate <br/>
 📊 Analytics | 🧠 process mining | 📊 data <br/>
   📍 Pune, India <br/>
@@ -48,7 +48,6 @@
 
 - Structured problem-solving with a **MECE mindset**
 - Translating complex data into **clear, actionable insights**
-- Bridging **technical analysis** with **business and policy relevance**
 - Strong documentation, storytelling, and presentation discipline
 - Clear written and verbal communication across technical & non-technical audiences
 - Collaborative, feedback-driven, and detail-oriented working style
@@ -57,9 +56,9 @@
 
 ## 🌱 Currently Learning & Improving
 - Advanced SQL & data modeling  
-- Analytics for consulting and strategy roles    
-- How organizations use data for optimizing operations
+- Analytics for consulting and strategy roles   
 - ETL pipelines
+- Machine Learning for businesses
 
 ---
 
