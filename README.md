@@ -55,10 +55,10 @@
 ---
 
 ## 🌱 Currently Learning & Improving
-- Advanced SQL & data modeling  
+- Advanced SQL & data modelling  
 - Analytics for consulting and strategy roles   
-- ETL pipelines
-- Machine Learning for businesses
+- Business Acumen
+- AI, LLMs, RAGs
 
 ---
 
